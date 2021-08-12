@@ -7,7 +7,7 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=belinglima&hide=html&layout=compact&theme=dracula)
   
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=belinglima)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
