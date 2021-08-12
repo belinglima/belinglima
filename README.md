@@ -2,10 +2,10 @@
 
 <div align="center"> 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=belinglima&show_icons=true&theme=merko) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=belinglima&show_icons=true&theme=dracula) 
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=belinglima&hide=html&layout=compact&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=belinglima&hide=html&layout=compact&theme=dracula)
 
 </div>
 
